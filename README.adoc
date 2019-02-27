@@ -47,19 +47,19 @@ This project relies on NodeJS, Asciidoctor, Gulp, and Hugo. To setup
 your environment please install https://nodejs.org/en/download/[NodeJS].
 
 Then Asciidoctor.
----
+----
 brew install asciidoctor
----
+----
 
 Then Gulp and Hugo.
----
+----
 npm install -g gulp-cli hugo-cli
----
+----
 
 Finally, run the website.
----
+----
 gulp serve
----
+----
 
 == Licenses
 
